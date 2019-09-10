@@ -1,4 +1,4 @@
-% This algorithm is to learn a join distribution of (X,Y) for each of the
+% This algorithm is to learn a joint distribution of (X,Y) for each of the
 % five studies.
 
 clear
