@@ -1,4 +1,4 @@
-% Experiment 1 for the paper 
+% Experiment 1
 
 clear
 
