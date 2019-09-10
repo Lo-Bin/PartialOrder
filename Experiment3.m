@@ -1,4 +1,4 @@
-% Experiment 3 for the paper
+% Experiment 3
 % model selection experiment by lasso
 % compare rcv and csv method.
 
